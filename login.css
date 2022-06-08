@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(104,103,192);
+}
+.container{
+    background-color: white;
+    width: 25%;
+    height: 500px;
+    margin: auto;
+    text-align: center;
+    padding-top: 55px;
+    margin-top: 8%;
+    border-radius: 15px;
+}
+#email,#password{
+    margin-top: 25px;
+}
+#login{
+    margin-top: 25px;
+}
+p{
+    margin-top: 25px;
+}
+#container>div:nth-child(6){
+    padding-top: 450px;
+}
